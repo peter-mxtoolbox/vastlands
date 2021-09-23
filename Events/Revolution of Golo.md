@@ -16,7 +16,3 @@ Gulek explodes the spire containing [[Golo#^BurntEndPrison]]
 
 [[Danton]] is friends with the [[Rohaus|Mean Rabbit]]
 
-
-Don't forget to update your [[Verified Sources]] so that your [[SPF]] record is always accurate. 
-![[Verified Sources#^7a372e]]
-more stuff

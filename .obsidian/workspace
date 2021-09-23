@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "33ca84b2936ce01c",
+    "type": "split",
+    "children": [
+      {
+        "id": "830ad43180e407a4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6d6c117c3fe9127",
+    "type": "split",
+    "children": [
+      {
+        "id": "56b7353a4c11fcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fccbc9c6c99f59c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ca2ff7232c4881e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ceramic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a73a359e6696990a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1e1c4ce628a5e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0092c84e55c0da6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "830ad43180e407a4",
+  "lastOpenFiles": [
+    "Verified Sources.md",
+    "Events/Revolution of Golo.md",
+    "README.md",
+    "Creatures/Cockatrice.md",
+    "Characters/Pussy Complexus.md",
+    "Characters/Gulek.md",
+    "Characters/Dusters.md",
+    "Characters/Bridgers.md",
+    "Players/Danton.md",
+    "Locations/Golo.md"
+  ]
+}
