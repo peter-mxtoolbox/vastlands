@@ -1,3 +1,7 @@
+Previous Adventure: Not recorded yet
+
+Sept 21, 2021 
+
 Location: [[Golo]]
 
 Setting the stakes.
@@ -13,6 +17,4 @@ Force of Arms [[The Ringers]] [[Bridgers]]
 Dirty Tricks [[Tessana]] [[Pussy Complexus]]
 
 Gulek explodes the spire containing [[Golo#^BurntEndPrison]]
-
-[[Danton]] is friends with the [[Rohaus|Mean Rabbit]]
 
