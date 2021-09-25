@@ -7,8 +7,11 @@
         "id": "13bb09605add710c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "13bb09605add710c",
   "lastOpenFiles": [
+    "README.md",
+    "Events/Adventure Guide.md",
+    "Vedas/SparkleFingers.md",
     "Characters/Noma Dubium.md",
     "Locations/Wickersham Crater.md",
     "Noma Dubium.md",
-    "Vedas/SparkleFingers.md",
     "Events/Caravan Day.md",
     "Modes of Transport/Palanquin.md",
     "Locations/Golo.md",
-    "Items/Vampire Wine.md",
-    "Items/Bubble Bread.md",
-    "Events/Adventure Guide.md"
+    "Items/Vampire Wine.md"
   ]
 }
