@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "830ad43180e407a4",
+        "id": "13bb09605add710c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ceramic",
+                "query": "veda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253
   },
   "right": {
     "id": "a73a359e6696990a",
@@ -65,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "830ad43180e407a4",
+  "active": "13bb09605add710c",
   "lastOpenFiles": [
-    "Verified Sources.md",
-    "Events/Revolution of Golo.md",
     "README.md",
-    "Creatures/Cockatrice.md",
-    "Characters/Pussy Complexus.md",
-    "Characters/Gulek.md",
-    "Characters/Dusters.md",
-    "Characters/Bridgers.md",
-    "Players/Danton.md",
-    "Locations/Golo.md"
+    "Events/Adventure Guide.md",
+    "Vedas/SparkleFingers.md",
+    "Characters/Noma Dubium.md",
+    "Locations/Wickersham Crater.md",
+    "Noma Dubium.md",
+    "Events/Caravan Day.md",
+    "Modes of Transport/Palanquin.md",
+    "Locations/Golo.md",
+    "Items/Vampire Wine.md"
   ]
 }

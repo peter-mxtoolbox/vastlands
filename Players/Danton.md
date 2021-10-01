@@ -1,3 +1,3 @@
 ![[Danton Portrait.png]]
 
-words
+Cut off own hand when it got possessed by a demon during [[Dentist Appointment]]
