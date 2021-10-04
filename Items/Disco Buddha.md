@@ -1,0 +1,1 @@
+Small Buddha statue covered with reflective bits. Great for conceealing contraband.

@@ -16,7 +16,7 @@ We reach the crossroads and come upon a stone monument which also acts as signs 
 
 She repeats, “You look lost.” We reply, “Aren’t we all?” 
 
-Her name is Sia. We see her auto-golem. It’s an ultralight vehicle made from some organic material, almost like wicker. She says that she is having some engine trouble and asks if we can assist her. She senses that we don’t trust her. “Don’t worry, I can pay you. Do you like drugs? She goes back to her machine and comes back with a bag full of some type of drug we have never seen before. “I think this stuff is called [[Drugs/QuickSilver]] (Quik).” Grosnic does “[[Vedas/SparkleFingers]]” and the car comes alive. Magic vines spread over the thing and at the end, the head lifts, shakes, and is back awake. We ask if she has been to [[Locations/Wickersham]]. She says, yeah, but I wouldn’t recommend it. 
+Her name is [[Sia]]. We see her auto-golem. It’s an ultralight vehicle made from some organic material, almost like wicker. She says that she is having some engine trouble and asks if we can assist her. She senses that we don’t trust her. “Don’t worry, I can pay you. Do you like drugs? She goes back to her machine and comes back with a bag full of some type of drug we have never seen before. “I think this stuff is called [[Drugs/QuickSilver]] (Quik).” [[Grosnic]] does “[[Vedas/SparkleFingers]]” and the car comes alive. Magic vines spread over the thing and at the end, the head lifts, shakes, and is back awake. We ask if she has been to [[Locations/Wickersham]]. She says, yeah, but I wouldn’t recommend it. 
 
 As we stop to rest the caravan, pit demons howl throughout the night, keeping most of us in a fitful sleep. 
 
@@ -24,7 +24,7 @@ We encounter four people, on the dunes, pouring some liquid out of jugs onto the
 
 Rohaus asks Rasklana what the deal is with these guys and what’s up with the sand. “They are legit. They come out here, call down rocks, put it in jars and bring it back to the crater.”
 
-[[Danton]] offers them a disco buddha. They love it.
+[[Danton]] offers the [[Crater Makers]] a [[disco buddha]]. They love it.
 
 Grosnic offers them some [[Items/Vampire Wine]] for $120 and offends them by calling their art “squiggles.”
 
