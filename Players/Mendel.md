@@ -3,13 +3,22 @@
 #### Epic Gear
 
 #### Skills
-#Law_of_the_Vessel: *WHAT DOES IT DO*
+[[Law of the Vessel]]
+[[Law Necromantic]]
 
 #### Vedas
 
-Along with [[Noma Dubium]], she confronts a demon and discovers more about herself during [[Dentist Appointment]]
+NEED NAME OF VEDA that created Zombies
 
-Soul is transferred and becomes [[Spider Mendel]] during *NEED ADEVENTURE REFERENCE*
+#### Events
+
+While at [[Wickersham Crater]] along with [[Noma Dubium]], she confronts a demon and discovers more about herself during [[Dentist Appointment]]
+
+After [[Meeting Gulek]] he studies the book of bones.
+
+During [[Events/Bone Tree]] Mendel attempted to reanimate the dead in the tree to attack it. He created instead a horde of [[Zombies]]
+
+Soul is transferred and becomes [[Spider Mendel]] during *TODO: LINK ADEVENTURE REFERENCE ONCE WRITTEN*
 
 #### Quotes
 

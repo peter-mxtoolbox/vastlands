@@ -1,0 +1,1 @@
+People who create craters near [[Locations/Wickersham]], by pouring some sort of liquid on the dunes. The sand smokes where they pour and you can smell the fumes. 
