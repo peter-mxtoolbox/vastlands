@@ -1,4 +1,4 @@
-Floating over the electric sea ^e015d5
+Floating in the center of the [[Golon Sea]] ^e015d5
 
 #### Sub-Locations
 **#Burnt_End_Prison** 
