@@ -31,4 +31,4 @@ Story Tree:
 
 ![[last story tree.png]]
 
-Next Adventure: TO BE WRITTEN
+Next Adventure: [[Meeting Barrel]]

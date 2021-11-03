@@ -7,5 +7,7 @@ April 20, 2021: [[Dentist Appointment]]
 May 4, 2021: [[Meeting Gulek]]
 May 11, 2021: [[Look up!]]
 May 18, 2021: [[Events/Bone Tree]]
+May 25, 2021: [[Events/Meeting Barrel]]
+June 8, 2021 [[Events/Into the Story Tree]]
 ...
 Sept 21, 2021: [[Revolution of Golo]]
