@@ -1,1 +1,1 @@
-![[bozin black.png]]
+![[Bozin Black Portrait.png]]
