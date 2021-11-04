@@ -32,14 +32,14 @@ There are folks here:
 
 This is a pinkish liquid that sloshes with his movement. 
 
-* Beside the fire is a [[Barrel | chrome barrel]] with a heat mirage radiance shimmering off it.
+* Beside the fire is a [[Barol | chrome barrel]] with a heat mirage radiance shimmering off it.
     
 * The chief beckons us. We’ll protect you.
     
 
   
 
-It’s a drizzling (not for chromatic rain) and they aren’t being touched within camp (the [[barrel]] is like a generator creating a force shield kind of deal). “You will be protected by our aegis”). 
+It’s a drizzling (not for chromatic rain) and they aren’t being touched within camp (the [[Barol]] is like a generator creating a force shield kind of deal). “You will be protected by our aegis”). 
 
   
 
