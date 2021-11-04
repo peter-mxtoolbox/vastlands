@@ -48,6 +48,6 @@ The centaur comes crashing down on Siljak and Rasklana. He deflects most of the 
 
 Rasklana and Grosnic tear off after it to tag-team it. He smashes it in the spine killing it. 
 
-We take the two golden masks as war trophies. We examine the [[Palanquin]] and find the dead Dentist sitting in regal robes. He died from overdosing on teeth. We also find a “rod of command” which directs the skeletons carrying the palanquin. We also find a bone folio with Necromantic texts.
+We take the two golden masks as war trophies. We examine the [[Palanquin]] and find the dead Dentist sitting in regal robes. He died from overdosing on teeth. We also find a “rod of command” which directs the skeletons carrying the palanquin. We also find a [[Bone Folio]] with Necromantic texts.
 
 Next Adventure: [[Meeting Gulek]]
