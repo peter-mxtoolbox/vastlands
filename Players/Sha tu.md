@@ -13,6 +13,8 @@ Maximum Discourse - Once per session, you may convince someone to see your point
 
 #### Epic Gear
 
+Vehicle is a six legged golem infused with the essence of his wife
+![[Sha tu Vehicle.png]]
 
 #### Skills
 

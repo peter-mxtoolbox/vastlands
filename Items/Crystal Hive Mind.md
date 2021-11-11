@@ -1,0 +1,2 @@
+![[Crystal Hive Mind.png]]
+
