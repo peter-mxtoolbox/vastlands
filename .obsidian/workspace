@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Bozin Black.md",
+            "file": "Characters/Gulek.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bozin Black.md",
+                "file": "Characters/Gulek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "102525564c7d2aec",
   "lastOpenFiles": [
+    "Characters/Gulek.md",
+    "Characters/Eater of Names.md",
+    "Locations/Mothers Milk.md",
     "Characters/Bozin Black.md",
     "Items/Noh Wut.md",
     "Players/Sha tu.md",
     "Players/Mendel.md",
     "Items/Vampire Wine.md",
     "Items/Suspension Cube.md",
-    "Items/Nightmare Portrait.md",
-    "Items/Geode Skull.md",
-    "Items/Bone Folio.md",
-    "Modes of Transport/Glasshorn.md"
+    "Items/Nightmare Portrait.md"
   ]
 }
