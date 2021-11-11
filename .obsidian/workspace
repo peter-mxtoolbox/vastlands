@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "67fe97fe114b18a9",
+        "id": "102525564c7d2aec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/Crystal Hive Mind.md",
+            "file": "Characters/Bozin Black.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tessana",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Crystal Hive Mind.md",
+                "file": "Characters/Bozin Black.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,28 +76,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "30e2dfdbb2665afa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Items/Crystal Hive Mind.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "162c4374e2ed90f0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Items/Crystal Hive Mind.md"
               }
             }
           }
@@ -108,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67fe97fe114b18a9",
+  "active": "102525564c7d2aec",
   "lastOpenFiles": [
-    "Items/Crystal Hive Mind.md",
-    "Vastlands Assets/Crystal Hive Mind.png",
-    "Characters/Eater of Names.md",
     "Characters/Bozin Black.md",
+    "Items/Noh Wut.md",
     "Players/Sha tu.md",
-    "Items/Loaner Mouth.md",
-    "Characters/Crater Makers.md",
-    "Players/Garland Churchwater.md",
-    "Vedas/Veda of the Mother Electric.md",
-    "Vedas/Veda Of the Law Necromantic.md"
+    "Players/Mendel.md",
+    "Items/Vampire Wine.md",
+    "Items/Suspension Cube.md",
+    "Items/Nightmare Portrait.md",
+    "Items/Geode Skull.md",
+    "Items/Bone Folio.md",
+    "Modes of Transport/Glasshorn.md"
   ]
 }
