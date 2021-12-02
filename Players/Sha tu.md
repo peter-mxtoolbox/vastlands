@@ -27,6 +27,6 @@ Sidu (etiquette) of the Iron Fist
 
 
 #### Events
-
+Almost lost his sword cane to the [[Black Crab]] in the [[Secret Oasis]] during [[First Time in the Secret Oasis]]
 
 #### Quotes
