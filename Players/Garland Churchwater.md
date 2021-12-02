@@ -34,7 +34,7 @@ Shadow Merchant (maybe he literally traps shadows)
 
 
 #### Events
-
+Got wounded trying to stop a runaway Glasshorn and cart during [[First Time in the Secret Oasis]]
 
 #### Quotes
 
