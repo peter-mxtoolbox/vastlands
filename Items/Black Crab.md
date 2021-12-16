@@ -1,6 +1,6 @@
 ![[Black Crab.png]]
 
-Black Crabs of the [[Secret Oasis]]
+Black Crabs of the [[Black Oasis]]
 AKA: Chimmys
 
 Have human mouths (with teeth). 
