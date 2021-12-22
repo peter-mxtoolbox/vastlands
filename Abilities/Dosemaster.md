@@ -1,0 +1,1 @@
+Allows player to maximize effects of drugs, doubling the uses. Attained by [[Siljak]]

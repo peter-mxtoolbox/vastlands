@@ -2,7 +2,7 @@ Previous Adventure: [[Events/Bone Tree]]
 
 May 25, 2021
 
-🐐: Paul
+🐐: [[Mendel]]
 
 Why is [[Danton]] away for the evening? Taking care of the horses.
 
