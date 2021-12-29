@@ -6,7 +6,7 @@ May 18, 2021
 
 Rohaus attempts to fire on one of the guards but his cross bolt thrower string has broken. Grosnic attacks the guard near the [[Palanquin]]. Mendel animates the bones that the lead guard is wearing. Gulek gets a rifle butt. Danton calls [[Y.A.M.S.]] over and rides into the group, falling into a pile. He pulls the guard over and Y.A.M.S. hooves him to death. [[SIljak]] starts shouting trying to drown out the tree’s calling but it does not go as planned. 
 
-The [[Events/Bone Tree]] attacks Danton and Rohaus. Rohaus loses his cross bolt completely. Danton and Y.A.M.S. are scratched to shit.  Rohaus attempts to save Gulek, but gets pinned down. Grosnic attacks the tree with his hammer axe which is buried into the tree. 
+The [[Creatures/Bone Tree]] attacks Danton and Rohaus. Rohaus loses his cross bolt completely. Danton and Y.A.M.S. are scratched to shit.  Rohaus attempts to save Gulek, but gets pinned down. Grosnic attacks the tree with his hammer axe which is buried into the tree. 
 
 [[Zombies]]: [[Mendel]] attempted to reanimate the dead in the tree to attack it. He didn’t realize that it was filled with hoards of dead which come spilling out as Zombies. They attack everything. 
 

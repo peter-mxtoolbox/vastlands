@@ -1,0 +1,1 @@
+Closeness to creatures grants the ability to bond with them and accomplish great feats. Attained by [[Danton]]

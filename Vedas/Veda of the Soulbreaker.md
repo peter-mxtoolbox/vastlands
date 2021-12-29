@@ -1,0 +1,1 @@
+Used by [[Siljak]] during [[Into the Story Tree]] to separate the Tentacular Beast from the Heart of Darkness.
