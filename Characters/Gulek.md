@@ -1,10 +1,10 @@
 TODO: NEED IMAGE OF ORIGINAL GULEK
 
 Becomes: Spider Gulek
-![[spider gulek.png]]
+![[Spider Gulek.png]]
 
 Becomes: Transformed Gulek
-![[transformed gulek.png]]
+![[Transformed Gulek.png]]
 
 Wizard
 Veda of the Mother Electric

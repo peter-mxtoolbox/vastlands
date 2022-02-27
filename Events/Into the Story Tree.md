@@ -35,7 +35,7 @@ The whole tree is stone-like, but in the shape of a tree. It is a malleable ston
 * Rohaus looks up and at the apex of the dome he can sense some movement. It’s dark up there, but he’s pretty certain there’s something. A slight rustling.
 * Neither the body, nor the pizza-thing is magical.
 * Rohaus sizes up the sitch on the pizzamoeba
-	* This thing is a symbiote (they are genetically created by the [[Redlands|Redlanders]]).
+	* This thing is a symbiote (they are genetically created by the [[Red Lands|Redlanders]]).
 	* [[Rohaus]] offers himself to it to gain the symbiote. He has a Sistine Chapel moment. There is a flash and threshing spiked tentacles fly down from the ceiling bastard and attack Rohaus trying to remove his arm. It is a creepy two-toned thing (black and hot-pink… like The Hitman). The symbiote joins with Rohaus and oozes over his hand like a glove. It feels good and fits onto him like a glove. It’s like the surface of an oil slick (reflective and firelight).
 	* It is a [[Firejelly]] (Firesnot) Symbiote
 		* Mechanics: It can excrete a rope of sticky flammable mucus (firesnot). It does not automagically ignite itself.

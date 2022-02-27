@@ -21,7 +21,7 @@ Attempted to be heroic during [[Look up!]] but only ended up catching himself on
 
 Attempted to save [[Danton]] from the [[Events/Bone Tree]] and lost his cross bolt thrower. Successfully saves [[Gulek]] from a [[Zombies | Zombie]]
 
-While foraging in [[A Complexus Situation]] he gets attacked by poetry and gains a changing lettered tatoo on his face.
+While foraging in [[The Complexus Situation]] he gets attacked by poetry and gains a changing lettered tatoo on his face.
 
 
 #### Quotes

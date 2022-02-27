@@ -73,7 +73,7 @@ It appears that the courtesan was at one time a normal human, but it’s nervous
 
 The mech wheels up and starts harvesting the wires from the dead courtesan. 
 
-![[pussy complexus.png]]
+![[Pussy Complexus.png]]
 [[Pussy Complexus|Jaeger]] - Philosopher-pimp: a wheeled jar of ceramic cat brains. 
 
 Siljak uses a spell detonator to shrink down the [[Cheese Helmet|helmet]] to normal size. It is associated with generation. It can grow cheese inside that the wearer can eat. “Help me Cheesus!”
@@ -85,4 +85,4 @@ Siljak uses a spell detonator to shrink down the [[Cheese Helmet|helmet]] to nor
 
 Danton & Mendel need to level at the next session
 
-Next Session: UNWRITTEN
+Next Session: [[Sky Snakes]]

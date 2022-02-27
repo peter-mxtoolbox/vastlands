@@ -10,6 +10,10 @@ May 18, 2021: [[Events/Bone Tree | Bone Tree]]
 May 25, 2021: [[Meeting Barrel]]
 June 8, 2021:  [[Into the Story Tree]]
 June 15, 2021: [[Putting Mendel Back Together]]
-June 22, 2021: [[A Complexus Situation]]
+June 22, 2021: [[The Complexus Situation]]
+July 6, 2021: [[Sky Snakes]]
+July 21, 2021: [[Events/The Barista]]
+August 4, 2021: [[2021-08-04]]
 ...
 Sept 21, 2021: [[Revolution of Golo]]
+...

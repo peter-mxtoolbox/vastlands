@@ -3,7 +3,7 @@ aliases: [Jaeger]
 ---
 |
 
-![[pussy complexus.png]]
+![[Pussy Complexus.png]]
 
 Philosopher-pimp: a wheeled jar of ceramic cat brains
 

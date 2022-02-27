@@ -1,0 +1,1 @@
+It makes faint whispering sounds but no words come out, it is the sound of stirring macaroni and cheese. (see [[Events/The Barista]])

@@ -1,4 +1,4 @@
-![[sky worm.png]]
+![[Sky Worm.png]]
 
 TODO: NEED DESCRIPTION
 
