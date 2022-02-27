@@ -126,4 +126,4 @@ End of session:
     
 Grosnic has hit Lev. 5. So he should level.
 
-Next Adventure: [[2021-08-04]]
+Next Adventure: [[Meeting the Bridgers]]

@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "80s Neon"
+  "cssTheme": "80s Neon",
+  "enabledCssSnippets": [
+    "caption"
+  ]
 }

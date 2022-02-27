@@ -13,7 +13,7 @@ June 15, 2021: [[Putting Mendel Back Together]]
 June 22, 2021: [[The Complexus Situation]]
 July 6, 2021: [[Sky Snakes]]
 July 21, 2021: [[Events/The Barista]]
-August 4, 2021: [[2021-08-04]]
+August 4, 2021: [[Meeting the Bridgers]]
 ...
 Sept 21, 2021: [[Revolution of Golo]]
 ...

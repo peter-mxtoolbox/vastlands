@@ -1,0 +1,1 @@
+We learn of this magic from the Demon trapped inside [[Spider Mendel]] during [[Meeting the Bridgers]]
