@@ -12,13 +12,13 @@ The weather becomes more overcast with low clouds.
 
 Encounter:
 
-![[story tree encounter.png]]
+![[Story Tree Encounter.png]]
 
 The wave riders of Khartoum. The players ride winged eels. The Yellow City Cannoneers. 
 
 [[Danton]] sees a hole appear in the cloud cover. “OMG, Look up!” he yells to the others. A beam shoots down from the sky and obliterates [[Faucet]]. Danton gets a taste of pain and takes one harm. [[Mulepede]] has died. Danton realizes now that particles of his artificial hand is flaking off and floating in the air. They see [[Sky Worms]]
 
-![[sky worm.png]]
+![[Sky Worm.png]]
 
 [[Gulek]] uses the [[Veda of the Mother Electric]] to attack the swarm of smaller creatures floating in the air. Rohaus runs down, to grab a [[Boom Stick]] to throw it at the swarm. He trips as he runs, falling into the fire. [[Grosnic]] prepares his fire mask to distract the swarm. The gelatinous fire mixture sticks to the swarm and they turn gray and drift away. He catches [[Y.A.M.S.]] on fire.
 
@@ -28,7 +28,7 @@ Rohaus sees more glowing and yells, “Another one!” Another swarm appears fro
 
 Danton gets on [[Y.A.M.S.]] and pulls off a sweet lean over grab and picks up the two [[Boom Stick | Boom Sticks]] before riding east.
 
-![[rohous and his friend.png]]
+![[Rohous and his Friend.png]]
 Rohous befriends a mule
 
 Secret Eating: Somebody has been taking more than their fair share of supplies. 

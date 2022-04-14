@@ -49,4 +49,4 @@ End of Session:
 - New memorable shit? Yes
 - Expand our drug empire? Yes
 
-Next Session: [[A Complexus Situation]]
+Next Session: [[The Complexus Situation]]

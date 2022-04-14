@@ -29,6 +29,6 @@ Booty:
 
 Story Tree:
 
-![[last story tree.png]]
+![[Last Story Tree.png]]
 
 Next Adventure: [[Meeting Barrel]]

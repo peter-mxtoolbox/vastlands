@@ -1,0 +1,1 @@
+Aquired by [[Grosnic]] in [[Meeting the Bridgers]] 
