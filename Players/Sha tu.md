@@ -11,6 +11,8 @@ Motorbreath - You start with a fast, self-propelled Golem Wagon all shiny and ch
 
 Maximum Discourse - Once per session, you may convince someone to see your point with logical argument.
 
+Friend of the Elements: Miraculously unharmed by the elements.
+
 #### Epic Gear
 
 Vehicle is a six legged golem infused with the essence of his wife [[Noh Wut]]
