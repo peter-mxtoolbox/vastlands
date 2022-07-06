@@ -1,4 +1,5 @@
-![[Mongag.png|350]]Redland Resistance Agent
+![[Mongag.png|350]]
+Redland Resistance Agent
 
 Reason for being on the Road: Possessed by a machine in adolescence.
 Item: Tempting intelligent gun wand

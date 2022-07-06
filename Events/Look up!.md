@@ -13,8 +13,8 @@ The weather becomes more overcast with low clouds.
 Encounter:
 
 ![[Story Tree Encounter.png]]
-
-The wave riders of Khartoum. The players ride winged eels. The Yellow City Cannoneers. 
+##### Sports Teams 
+The wave riders of Kartoon. The players ride winged eels. The Yellow City Cannoneers. 
 
 [[Danton]] sees a hole appear in the cloud cover. “OMG, Look up!” he yells to the others. A beam shoots down from the sky and obliterates [[Faucet]]. Danton gets a taste of pain and takes one harm. [[Mulepede]] has died. Danton realizes now that particles of his artificial hand is flaking off and floating in the air. They see [[Sky Worms]]
 
