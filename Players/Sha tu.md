@@ -1,3 +1,6 @@
+---
+aliases: [Scab]
+---
 ![[Sha Tu Portrait.png]]
 
 Who Are You? Blackgold Industrialist

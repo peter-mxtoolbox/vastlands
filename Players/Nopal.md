@@ -1,7 +1,7 @@
 ![[Nopal.png|350]]Yellow lander cactus farmer
 
 Reason for being on the Road: Repaying a terminal life debt
-Item: Cactus fetish with whelk shell eyes
+Item: Cactus fetish with whelk shell eyes called **Lorde**
 
 ## Abilities
 - Combat Monster: Add body stat to all damage rolls
