@@ -1,4 +1,4 @@
-Found by Mendel during [[Dentist Appointment]]
+Found by Mendel during [[2021-04-20 Dentist Appointment]]
 
 Helps with [[Vedas/Veda Of the Law Necromantic]]
 

@@ -1,1 +1,1 @@
-Killed by a [[Sky Worm.png]] at [[Look up!]]. He was a good mule.
+Killed by a [[Sky Worm.png]] at [[2021-05-11 Look up!]]. He was a good mule.

@@ -1,1 +1,1 @@
-We learn of this magic from the Demon trapped inside [[Spider Mendel]] during [[Meeting the Bridgers]]
+We learn of this magic from the Demon trapped inside [[Spider Mendel]] during [[2021-08-04 Meeting the Bridgers]]

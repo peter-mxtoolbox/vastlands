@@ -1,1 +1,1 @@
-Used by [[Siljak]] during [[Into the Story Tree]] to separate the Tentacular Beast from the Heart of Darkness.
+Used by [[Siljak]] during [[2021-06-08 Into the Story Tree]] to separate the Tentacular Beast from the Heart of Darkness.
