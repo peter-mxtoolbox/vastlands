@@ -8,3 +8,19 @@ She is following the path of [[Pussy Complexus]] (PC has become a legendary hist
 
 Idsovak is always looking for meat for experimentation, so she knows [[Margrave Purpureo]]
 
+#### Epic Gear
+- 
+
+#### Abilities
+- 
+
+#### Skills
+- 
+
+#### Vedas
+- 
+
+#### Events
+
+
+#### Quotes
