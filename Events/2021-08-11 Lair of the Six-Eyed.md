@@ -1,4 +1,4 @@
-Previous Adventure: [[Meeting the Bridgers]]
+Previous Adventure: [[2021-08-04 Meeting the Bridgers]]
 
 August 11, 2021
 🐐: [[Siljak]]

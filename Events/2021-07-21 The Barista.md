@@ -1,4 +1,4 @@
-Previous Adventure: [[Sky Snakes]]
+Previous Adventure: [[2021-07-06 Sky Snakes]]
 
 July 21, 2021
 🐐: [[Mendel]]
@@ -126,4 +126,4 @@ End of session:
     
 Grosnic has hit Lev. 5. So he should level.
 
-Next Adventure: [[Meeting the Bridgers]]
+Next Adventure: [[2021-08-04 Meeting the Bridgers]]

@@ -1,4 +1,4 @@
-Previous Adventure: [[Dentist Appointment]]
+Previous Adventure: [[2021-04-20 Dentist Appointment]]
 
 May 4, 2021
 
@@ -36,4 +36,4 @@ We hang out with Gulek and he tells us of the dangers of travels to the [[Locati
 
 We part ways with [[Rasklana]] but we might see her at the Harpy Brothel if we make it there.
 
-Next Adventure: [[Look up!]]
+Next Adventure: [[2021-05-11 Look up!]]

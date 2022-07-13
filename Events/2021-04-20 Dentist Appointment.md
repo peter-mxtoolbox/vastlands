@@ -1,4 +1,4 @@
-Previous Adventure: [[Caravan Day]]
+Previous Adventure: [[2021-04-13 Caravan Day]]
 
 April 20, 2021
 
@@ -50,4 +50,4 @@ Rasklana and Grosnic tear off after it to tag-team it. He smashes it in the spin
 
 We take the two golden masks as war trophies. We examine the [[Palanquin]] and find the dead Dentist sitting in regal robes. He died from overdosing on teeth. We also find a “rod of command” which directs the skeletons carrying the palanquin. We also find a [[Bone Folio]] with Necromantic texts.
 
-Next Adventure: [[Meeting Gulek]]
+Next Adventure: [[2021-05-04 Meeting Gulek]]

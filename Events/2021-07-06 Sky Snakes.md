@@ -1,4 +1,4 @@
-Previous Adventure: [[The Complexus Situation]]
+Previous Adventure: [[2021-06-22 The Complexus Situation]]
 
 July 06, 2021
 🐐: [[Danton]]
@@ -40,4 +40,4 @@ Have we grown our drug empire? Yes
 
 Rohaus needs to level up next session.
 
-Next Adventure: [[Events/The Barista]]
+Next Adventure: [[2021-07-21 The Barista]]
