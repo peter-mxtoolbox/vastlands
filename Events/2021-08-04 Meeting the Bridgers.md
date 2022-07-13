@@ -1,4 +1,4 @@
-Previous Adventure: [[Events/The Barista]]
+Previous Adventure: [[2021-07-21 The Barista]]
 
 August 4, 2021
 🐐: [[Grosnic]]
@@ -52,4 +52,4 @@ End of session:
 
 Mendel gets to level for next time…
 
-Next Adventure: [[Events/2021-08-11]]
+Next Adventure: [[2021-08-11 Lair of the Six-Eyed]]

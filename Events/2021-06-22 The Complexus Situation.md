@@ -1,4 +1,4 @@
-Previous Adventure: [[Putting Mendel Back Together]]
+Previous Adventure: [[2021-06-15 Putting Mendel Back Together]]
 
 June 22, 2021
 🐐: [[Rohaus]]
@@ -85,4 +85,4 @@ Siljak uses a spell detonator to shrink down the [[Cheese Helmet|helmet]] to nor
 
 Danton & Mendel need to level at the next session
 
-Next Session: [[Sky Snakes]]
+Next Session: [[2021-07-06 Sky Snakes]]

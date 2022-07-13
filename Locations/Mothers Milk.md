@@ -8,5 +8,5 @@ Upstairs the door to the private quarters are protected by a motion detecting se
 
 Hanging behind his desk is a veiled portrait. Presumably it is a [[Nightmare Portrait]].
 
-Following the [[Revolution of Golo]], the place was ransacked and "Coward" had been scrawled on the wall behind the stage. With the changes in [[Golo]]'s integrity, the walls had begun to sweat milk causing the place to become a milky swamp.
+Following the [[2021-09-21 Revolution of Golo]], the place was ransacked and "Coward" had been scrawled on the wall behind the stage. With the changes in [[Golo]]'s integrity, the walls had begun to sweat milk causing the place to become a milky swamp.
 

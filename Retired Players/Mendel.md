@@ -12,11 +12,11 @@ NEED NAME OF VEDA that created Zombies
 
 #### Events
 
-While at [[Wickersham Crater]] along with [[Noma Dubium]], she confronts a demon and discovers more about herself during [[Dentist Appointment]]
+While at [[Wickersham Crater]] along with [[Noma Dubium]], she confronts a demon and discovers more about herself during [[2021-04-20 Dentist Appointment]]
 
-After [[Meeting Gulek]] she studies the book of bones.
+After [[2021-05-04 Meeting Gulek]] she studies the book of bones.
 
-During [[Events/Bone Tree]] Mendel attempted to reanimate the dead in the tree to attack it. She created instead a horde of [[Zombies]]
+During [[2021-05-18 Bone Tree]] Mendel attempted to reanimate the dead in the tree to attack it. She created instead a horde of [[Zombies]]
 
 Was shaken to "death" by the Voam Heart in [[The Last Story Tree]].
 

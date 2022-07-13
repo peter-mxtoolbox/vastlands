@@ -1,4 +1,4 @@
-Previous Adventure: [[Into the Story Tree]]
+Previous Adventure: [[2021-06-08 Into the Story Tree]]
 
 June 15, 2021
 
@@ -49,4 +49,4 @@ End of Session:
 - New memorable shit? Yes
 - Expand our drug empire? Yes
 
-Next Session: [[The Complexus Situation]]
+Next Session: [[2021-06-22 The Complexus Situation]]

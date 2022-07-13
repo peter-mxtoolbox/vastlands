@@ -1,4 +1,4 @@
-Previous Adventure: [[Meeting Barrel]]
+Previous Adventure: [[2021-05-25 Meeting Barol]]
 
 June 8, 2021
 
@@ -99,4 +99,4 @@ Session end/summation:
 * Weird & Memorable shit: Yes!
 * Grow drug empire: No… but teeth.
 
-Next Adventure: [[Putting Mendel Back Together]]
+Next Adventure: [[2021-06-15 Putting Mendel Back Together]]

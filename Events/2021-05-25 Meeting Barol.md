@@ -1,6 +1,6 @@
-Previous Adventure: [[Events/Bone Tree]]
+Previous Adventure: [[2021-05-18 Bone Tree]]
 
-May 25, 2021
+## May 25, 2021
 
 🐐: [[Mendel]]
 
@@ -162,4 +162,4 @@ Session End:
 
 **
 
-Next Adventure: [[Into the Story Tree]]
+Next Adventure: [[2021-06-08 Into the Story Tree]]

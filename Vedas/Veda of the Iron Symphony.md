@@ -1,1 +1,1 @@
-Aquired by [[Grosnic]] in [[Meeting the Bridgers]] 
+Aquired by [[Grosnic]] in [[2021-08-04 Meeting the Bridgers]] 
