@@ -1,0 +1,1 @@
+Illusory magic used by [[Smarter]] to mask the actions of the [[Ratlings]] in [[Palace of Light]]
