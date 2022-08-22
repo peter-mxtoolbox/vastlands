@@ -1,7 +1,7 @@
 ## 2022-05-31
 ##### In which...
 * The team enters the lair of, ruins the possessions of, and meets the Vampire [[Demorzanno]]
-* The team discover the valuable new item: [[blood diamonds]]
+* The team discover the valuable new item: [[Blood Diamond]]
 * [[58263|Ken]] collides with a [[Purple Machine Ghouls]] and becomes [[58263|Kenny G]]
 🐐: Brad / #58263 (Ken)
 
@@ -62,7 +62,7 @@ He is now the Ken Ghoul. That is Kenny Ghoul. That is Kenny G.
 
 [[Idsovak]] is incredibly intrigued by Jelly Life controlling the ghoul. This is very much in line with the [[Veda of the Abmortal Doctor]]. 
 
-The party returns to find [[Margrave Purpureo|Margrave]] & [[Psu]] (who are still drunk). The Blue Figure introduces himself as [[Demorzanno]] and is a vampire and Other Land Blood Diamond broker. He admits he had been trading hair to the Ghouls for [[blood diamonds]] and promised to somehow get them out. They are obsessed with hair, because there is nothing like it down in the machine pit. They even took to calling the outside “Hair World”; This is also why he’s hairless. Demorzanno says the worst thing about being a vampire is being dependent on the blood of the living. The [[blood diamonds]] are the solution, a never ending source of food for vampires. "We will be rich! Once we get back out of the Oasis and find some vampires."
+The party returns to find [[Margrave Purpureo|Margrave]] & [[Psu]] (who are still drunk). The Blue Figure introduces himself as [[Demorzanno]] and is a vampire and Other Land Blood Diamond broker. He admits he had been trading hair to the Ghouls for [[Blood Diamond]] and promised to somehow get them out. They are obsessed with hair, because there is nothing like it down in the machine pit. They even took to calling the outside “Hair World”; This is also why he’s hairless. Demorzanno says the worst thing about being a vampire is being dependent on the blood of the living. The [[Blood Diamond]] are the solution, a never ending source of food for vampires. "We will be rich! Once we get back out of the Oasis and find some vampires."
 
 [[58263|Kenny G]] needs to get back to the [[Machine Pit]] and get his gear (especially his letter). 
 

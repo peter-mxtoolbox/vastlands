@@ -3,7 +3,7 @@
 Woodlander Elf-Touched Trapper 
 Why are you on the road? Seeking a prosthetic body for Mother
 
-Was in prison on [[GOLO]] for smuggling necrotic contraband
+Was in prison on [[Golo]] for smuggling necrotic contraband
 
 Elf Touched means those that have been touched by elves. It sucks the life force out of them and turns them into zombies. Garland is hunting down Elf-touched (zombies) and taking their remains and selling them. He thinks he can turn one of these hosts into a viable host for Mother. Among the requirements for this host is that it can't be human. 
 

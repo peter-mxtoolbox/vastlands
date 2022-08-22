@@ -15,7 +15,7 @@ Reason for being on the Road: Possessed by a machine in adolescence.
 - Sidu of the Soiled Wind
 
 #### Vedas
-- Veda of the Flying Serpent
+- Veda of the [[Flying Serpent]]
 
 #### Events
 Came from a community of master packers who would set up expeditions with supplies.

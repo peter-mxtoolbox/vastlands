@@ -1,0 +1,1 @@
+![[Vastlands Assets/The Mountains of Light.png]]
