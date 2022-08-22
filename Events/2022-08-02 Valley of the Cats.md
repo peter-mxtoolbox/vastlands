@@ -6,29 +6,27 @@
 * Learn the history of the Valley and the Battle of the Stray Titan
 * Mongag learns to make Cat bags
 
-![](https://lh5.googleusercontent.com/LvNkbrt5JT2eypu-1wrGmidhY1wiiQafcRoUzHIsgcPSEoO1t6AD3zP5hX2DfXG79ab2xhndrBFgUl86eiedRMSNpJyU0NM09omsx0pmrWBk2V7n547JuuE2GbEO24qWqRn2kydcSKpg2PocWcielg)
-
-[[The Valley of the Cats]]
-
--   Worm of Sixty Winters
+![[Valley of the Cats 2.png]]
+[[_Valley of the Cats]]
+-   [[Worm of the Sixty Winters]]
 -   Cenotaph of the Tenth Life
 -   Pspspsps House
 -   Dogcutter
 -   The Grit
 -   Cat Fancies
--   Degenerate Sigil Shack
+-   Degenerate Sigil Shack - home of [[Degenerate Sigil]]
 -   Vampire Nest Entrance
  
 
-Where was [[God-to-Be]] all this time? [[Nopal]] took him out originally under his hat. Back at the [[Palace of Light]] he had gotten a box that needles had come in. You have to tickle it to make it open. Nopal checks on him. He’s okay but a little cramped in there. 
+Where was [[Characters/God-to-Be]] all this time? [[Nopal]] took him out originally under his hat. Back at the [[Palace of Light]] he had gotten a box that needles had come in. You have to tickle it to make it open. Nopal checks on him. He’s okay but a little cramped in there. 
 
   
 
-The [[God-to-Be]] is not super pleased about not being worshiped lately. You need to announce my arrival when we arrive at locations.  
+The [[Characters/God-to-Be]] is not super pleased about not being worshiped lately. You need to announce my arrival when we arrive at locations.  
 
   
 
-We learn that when we remove the [[Psychopomp's Seal]] we are not sure how large the [[God-to-Be]] will end up becoming.
+We learn that when we remove the [[Psychopomp's Seal]] we are not sure how large the [[Characters/God-to-Be]] will end up becoming.
 
   
 
@@ -74,7 +72,7 @@ Ethical cat juicer is making cat bags. [[Mongag]] wants to talk with him. [[Nopa
 
   
 
-Up at the Catriarch’s house - it is a prefabricated building made by Cogflower. He shows off the [[Cat’s Eye]]. It once gazed out from the Stray Titan. If you look into the eye you can see remote locations. [[JennyG]] looks back to [[Thousand Fingers]]. The dwellers there band together to fight the [[KaiGool]]. They gather slime whistles from the [[Shoppe of Exiles]] and it destroys [[The Rock of Exiles]]. Next it goes over to the [[God-to-Be]] pillar and devours all the treasure left up there. It then tears down the pillar. The Night Mouth Clanhold attacks with ranged weapons. The KaiGool has a breath weapon, a cloud of nanites. A purple, glittery dust cloud. It dissolves inorganic matter. The navy made up from water taxis under the leadership of [[The Slamm]] attacked and pushed the  [[KaiGool]] away and east. Thousand Fingers is now known as [[Broken Fingers]]. 
+Up at the Catriarch’s house - it is a prefabricated building made by Cogflower. He shows off the [[Cat’s Eye]]. It once gazed out from the Stray Titan. If you look into the eye you can see remote locations. [[JennyG]] looks back to [[_Thousand Fingers]]. The dwellers there band together to fight the [[KaiGool]]. They gather slime whistles from the [[Shoppe of Exiles]] and it destroys [[The Rock of Exiles]]. Next it goes over to the [[Characters/God-to-Be]] pillar and devours all the treasure left up there. It then tears down the pillar. The Night Mouth Clanhold attacks with ranged weapons. The KaiGool has a breath weapon, a cloud of nanites. A purple, glittery dust cloud. It dissolves inorganic matter. The navy made up from water taxis under the leadership of [[The Slamm]] attacked and pushed the  [[KaiGool]] away and east. Thousand Fingers is now known as [[Broken Fingers]]. 
 
   
 
@@ -115,7 +113,7 @@ G: Scab
 
   
 
-The party arrives at the [[Valley of the Cats]].  During our journey, G2B was travelling with us ostensibly to go to the holy mountain. He's been stored in the ticklebox that Nopal's dancing needles were stored in. No one really heard from him last time so Nopal goes to check on him in the box. `3` The G2B is a little cramped inside, but he's okay. Nopal apologizes, but let's him know that he's cool, he's made to suffer. The G2B is concerned about being worshiped. Nopal is now his herald and he must announce his arrival to this new place. 
+The party arrives at the [[_Valley of the Cats]].  During our journey, G2B was travelling with us ostensibly to go to the holy mountain. He's been stored in the ticklebox that Nopal's dancing needles were stored in. No one really heard from him last time so Nopal goes to check on him in the box. `3` The G2B is a little cramped inside, but he's okay. Nopal apologizes, but let's him know that he's cool, he's made to suffer. The G2B is concerned about being worshiped. Nopal is now his herald and he must announce his arrival to this new place. 
 
   
 

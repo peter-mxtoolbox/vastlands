@@ -17,11 +17,11 @@ We have ventured into a new part of the map:  [[The Mountains of Light]]
 
 ![[MountainsOfLight.png|Mountains of Light]] 
 
-Areas: [[Doom Farms]], [[Valley of the Cats]], [[Thesus]], [[Mad Anvil]], [[Lazy Pilgrim]], [[The Holy Mountain]].
+Areas: [[Doom Farms]], [[_Valley of the Cats]], [[Events/Thesus]], [[Mad Anvil]], [[Lazy Pilgrim]], [[The Holy Mountain]].
 
-[[Thesus]] is insect town.
+[[Events/Thesus]] is insect town.
 
-[[Valley of the Cats]] is like a last stand battlefield memorial type place.
+[[_Valley of the Cats]] is like a last stand battlefield memorial type place.
   
 [[The Party Beast]] has a growth that they harvest to eat as sustenance. They call it [[meat fruit]]. If they are not harvested, they attract other scavengers. If people don’t remove them, it will rub up against things like buildings to remove them. If they are not harvested in time, they rot. 
 

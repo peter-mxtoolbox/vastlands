@@ -1,9 +1,9 @@
-![[The Mountains of Light.png|]]
+![[The Mountains of Light 1.png|]]
 
 Areas: 
 * [[Doom Farms]]
-* [[Valley of the Cats]]
-* [[Thesus]]
+* [[_Valley of the Cats]]
+* [[Events/Thesus]]
 * [[Mad Anvil]]
 * [[Lazy Pilgrim]]
 * [[The Holy Mountain]].
