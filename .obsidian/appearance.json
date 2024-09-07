@@ -3,5 +3,6 @@
   "cssTheme": "80s Neon",
   "enabledCssSnippets": [
     "caption"
-  ]
+  ],
+  "accentColor": ""
 }
